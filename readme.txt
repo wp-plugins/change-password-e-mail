@@ -5,11 +5,13 @@ Requires: 2.8
 Tested up to: 3.1.1
 Stable tag: 1.0
 
-Creates simplified Change Password and Change E-mail pages under Users menu to replace "My Profile"
+Creates simplified Change Password and Change E-mail pages under Users menu to replace "Your Profile"
 
 == Description ==
 
-Creates Change Password and Change E-mail pages under Users to circumvent default user profile editor for simple implementations on sites which don't need the full user options that "My Profile" uses. Best used in conjunction with Adminimize to hide "My Profile" from user role(s).
+CCreates simplified Change Password and Change E-mail pages under Users menu to replace "Your Profile" for simple implementations on sites which don't need the full user options that the default uses.
+
+Best used in conjunction with Adminimize to hide the "Your Profile" menu item from user role(s).
 
 == Installation ==
 

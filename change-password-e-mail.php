@@ -2,7 +2,7 @@
 /*
 Plugin Name: Change Password and E-mail
 Plugin URI: http://scottkclark.com/wordpress/change-password-e-mail/
-Description: Creates Change Password and Change E-mail pages under Users to circumvent default user profile editor for simple implementations on sites which don't need full user options. Best used in conjunction with Adminimize.
+Description: Creates simplified Change Password and Change E-mail pages under Users menu to replace "Your Profile"
 Version: 1.0
 Author: Scott Kingsley Clark
 Author URI: http://scottkclark.com/
