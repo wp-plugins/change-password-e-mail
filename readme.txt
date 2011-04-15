@@ -1,15 +1,15 @@
-=== Change Password / E-mail ===
+=== Change Password and E-mail ===
 Contributors: sc0ttkclark
-Tags: change, password, e-mail, adminimize, hide, profile, editor
+Tags: change, password, e-mail, adminimize, hide, profile, editor, my profile, simple
 Requires: 2.8
-Tested up to: 3.1
-Stable tag: 0.2
+Tested up to: 3.1.1
+Stable tag: 1.0
 
-Creates Change Password and Change E-mail pages under Users to circumvent default user profile editor. Best used in conjunction with Adminimize (hiding the normal menu items).
+Creates simplified Change Password and Change E-mail pages under Users menu to replace "My Profile"
 
 == Description ==
 
-Creates Change Password and Change E-mail pages under Users to circumvent default user profile editor. Best used in conjunction with Adminimize (hiding the normal menu items).
+Creates Change Password and Change E-mail pages under Users to circumvent default user profile editor for simple implementations on sites which don't need the full user options that "My Profile" uses. Best used in conjunction with Adminimize to hide "My Profile" from user role(s).
 
 == Installation ==
 
@@ -19,3 +19,9 @@ Creates Change Password and Change E-mail pages under Users to circumvent defaul
 1. Activate this plugin
 
 OR you can just install it with WordPress by going to Plugins >> Add New >> and type Change Password / E-mail
+
+== Changelog ==
+
+= 1.0 =
+* Localized plugin
+* Code cleanup
